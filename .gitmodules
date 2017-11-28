@@ -1,0 +1,27 @@
+[submodule "counting_sort"]
+	path = counting_sort
+	url = git@gist.github.com:741ff358cadc62c9c4f6dcf21a72f856.git
+[submodule "fake_malloc"]
+	path = fake_malloc
+	url = git@gist.github.com:2d22aead6acc46df35a53c331d6272be.git
+[submodule "valgrind_errors"]
+	path = valgrind_errors
+	url = git@gist.github.com:e1755e2f7596eca72c6eda424b885c41.git
+[submodule "programacion_dinamica"]
+	path = programacion_dinamica
+	url = git@gist.github.com:691bdff48a9a4ecbc5d768b45b048b93.git
+[submodule "KevinBaconPy/imdbtocsv"]
+	path = KevinBaconPy/imdbtocsv
+	url = git@gist.github.com:7c838d433c2fccd06d7093faf4572990.git
+[submodule "stoogesort"]
+	path = stoogesort
+	url = git@gist.github.com:7c838d433c2fccd06d7093faf4572990.git
+[submodule "git_en_equipo"]
+	path = git_en_equipo
+	url = git@gist.github.com:75b5653d44684b4144e8542a1d645ff1.git
+[submodule "super_makefile"]
+	path = super_makefile
+	url = git@gist.github.com:5a5a8c34b25137d83b619fd3dc424cf0.git
+[submodule "valgreen"]
+	path = valgreen
+	url = git@github.com:tomasaccini/valgreen.git
